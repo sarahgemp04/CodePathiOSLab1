@@ -1,6 +1,6 @@
 #Week 1 Lab- Tumblr
 
-/**
+/*
 *
 * SUBMITTED BY: Sarah Gemperle
 *
@@ -8,14 +8,11 @@
 * 
 * TIME SPENT: 1.5 hours spent in total, roughly.
 *
-**/
+*/
 
 
 **Simple Tumblr** A simple app that requests post info from a pre-made API
                   and shows photo posts in table view. 
-
-Here's a walkthrough of implemented user stories:
-recommend navigating to imgur site for best quality.
 
 <img src='http://i.imgur.com/xt6taDf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
