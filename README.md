@@ -1,13 +1,13 @@
 #Week 1 Lab- Tumblr
 
 
-*
+
 * SUBMITTED BY: Sarah Gemperle
-*
+
 * Date submitted: Jan 20, 2017
-* 
+
 * TIME SPENT: 1.5 hours spent in total, roughly.
-*
+
 
 
 
