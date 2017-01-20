@@ -21,12 +21,6 @@ recommend navigating to imgur site for best quality.
 
 http://i.imgur.com/xt6taDf.gif
 
-And here is a walkthrough of implemented user stories from week 2:
-
-<img src='http://i.imgur.com/xt6taDf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-http://i.imgur.com/xt6taDf.gif
-
 GIF created with [LiceCap](http://cockos.com/licecap/)
 
 ##Notes
