@@ -1,6 +1,6 @@
 #Week 1 Lab- Tumblr
 
-/*
+
 *
 * SUBMITTED BY: Sarah Gemperle
 *
@@ -8,7 +8,7 @@
 * 
 * TIME SPENT: 1.5 hours spent in total, roughly.
 *
-*/
+
 
 
 **Simple Tumblr** A simple app that requests post info from a pre-made API
